@@ -28,4 +28,4 @@ export const LLaammTTeerr = {
 }
 -->
 
-![](https://github.com/LLaammTTeerr/LLaammTTeerr/blob/main/images/carbon.svg?raw=true)
+![](https://github.com/LLaammTTeerr/LLaammTTeerr/blob/main/images/carbon.png?raw=true)
