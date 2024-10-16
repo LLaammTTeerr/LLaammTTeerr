@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **LLaammTTeerr/LLaammTTeerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+export const LLaammTTeerr = {
+  fullname: "Phan Binh Nguyen Lam",
+  birthyear: 2006,
+  nation: "Vietnam 🇻🇳",
+  school: "VNU-HCM, Ho Chi Minh University of Science",
+  major: "Computer Science",
+  emails: [
+    "lamter@qhhoj.com",
+    "pbnlam2428@apcs.fitus.edu.vn",
+    "24125014@student.hcmus.edu.vn",
+  ],
+}
+-->
+
+![](https://github.com/LLaammTTeerr/LLaammTTeerr/blob/main/images/carbon.svg?raw=true)
